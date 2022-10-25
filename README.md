@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning **Vue and Node**
 
-
+![](https://komarev.com/ghpvc/?username=langeldev&style=for-the-badge&color=blue)
 
 #### Languages and Tools
 <p>
